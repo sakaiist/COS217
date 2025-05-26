@@ -11,4 +11,4 @@ Spr '25 starter files
 ### Assignment 4
 
 - No access to `meminfo(report)`.
--- `1BDT/bdtBad4-5` cannot be built, hardlinked to meminfo.
+  - `1BDT/bdtBad4-5` cannot be built, hardlinked to meminfo.
